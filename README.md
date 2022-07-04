@@ -17,3 +17,8 @@ es una single page aplication donde podemos visualizar y crear recetas de comida
 
 - Timberli, 
 es una web ideada parqa la comunidad de desarrolladores. donde podemos exponer buscar y calificar proyectos entre usuarios.
+
+# Me podes contactar en:
+   https://www.linkedin.com/in/luciano-mocchegiani
+   https://github.com/LucianoMocchegiani
+   wsp: 011-64897908
