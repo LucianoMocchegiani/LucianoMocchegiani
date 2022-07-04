@@ -1,5 +1,5 @@
-# Luciano Mocchegiani
-Full STack Developer
+# Hola soy Luciano Mocchegiani,
+Full Stack Developer, entuciasta del mundo tecnologico
 
 # Tecnologías y metodologías conocidas:
 - Front-end: JavaScript, React, Redux, HTML, CSS.
@@ -15,5 +15,5 @@ es una single page aplication donde podemos visualizar y crear recetas de comida
 
 
 
-- TImberli, 
+- Timberli, 
 es una web ideada parqa la comunidad de desarrolladores. donde podemos exponer buscar y calificar proyectos entre usuarios.
