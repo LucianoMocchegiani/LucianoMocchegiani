@@ -25,7 +25,7 @@ https://proyecto-final-orcin-seven.vercel.app/
 
 # Me podes contactar en:
 <img src=https://cdn-icons-png.flaticon.com/512/61/61109.png width = 5% />
-<img src=https://www.infofueguina.com/u/fotografias/m/2020/12/18/f850x638-77468_154957_5050.jpg width = 5% />
+<img src=https://cdn.icon-icons.com/icons2/2783/PNG/512/social_whatsapp_icon_177148.png width = 5% />
 - https://www.linkedin.com/in/luciano-mocchegiani
 - https://github.com/LucianoMocchegiani
 - wsp: 011-64897908
