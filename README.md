@@ -24,6 +24,8 @@ https://proyecto-final-orcin-seven.vercel.app/
     <img src=https://i.postimg.cc/C14KDYqY/Captura-de-pantalla-de-2022-07-04-20-13-27.png width = 20% /> <img src=https://i.postimg.cc/SQTSpgLZ/Captura-de-pantalla-de-2022-07-04-20-13-32.png width = 20% /> <img src=https://i.postimg.cc/SNw5p9n2/Captura-de-pantalla-de-2022-07-04-20-14-00.png width = 20% /> <img src=https://i.postimg.cc/j5nWJBhS/Captura-de-pantalla-de-2022-07-04-20-13-54.png width = 20% /> <img src=https://i.postimg.cc/cL1rcvcj/Captura-de-pantalla-de-2022-07-04-20-13-41.png width = 20% /> <img src=https://i.postimg.cc/8C9cDtVQ/Captura-de-pantalla-de-2022-07-04-20-13-49.png width = 20% />
 
 # Me podes contactar en:
+<img src=https://cdn-icons-png.flaticon.com/512/61/61109.png width = 5% />
+<img src=https://www.infofueguina.com/u/fotografias/m/2020/12/18/f850x638-77468_154957_5050.jpg width = 5% />
 - https://www.linkedin.com/in/luciano-mocchegiani
 - https://github.com/LucianoMocchegiani
 - wsp: 011-64897908
