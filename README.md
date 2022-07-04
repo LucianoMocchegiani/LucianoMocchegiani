@@ -26,6 +26,6 @@ https://proyecto-final-orcin-seven.vercel.app/
 # Me podes contactar en:
 
 <a href=https://www.linkedin.com/in/luciano-mocchegiani ><img src=https://cdn-icons-png.flaticon.com/512/61/61109.png width = 4% /></a>
-<img src=https://cdn.icon-icons.com/icons2/2783/PNG/512/social_whatsapp_icon_177148.png width = 6% />  011-64897908
+<img src=https://cdn-icons-png.flaticon.com/512/785/785868.png width = 6% />  011-64897908
 
 
