@@ -12,7 +12,6 @@
 # Mis Proyectos
 - Henry Food, 
 es una single page aplication donde podemos visualizar y crear recetas de comidas.
-
 <a href=https://client-food-project.herokuapp.com>Link a Henry Food</a>
 
     <img src=https://i.postimg.cc/rpLvYMnK/Captura-de-pantalla-de-2022-06-11-19-45-04.png width = 20% /> <img src=https://i.postimg.cc/HsqKVTCB/Captura-de-pantalla-de-2022-06-11-19-45-06.png width = 20% /> <img src=https://i.postimg.cc/nVwNfvS8/Captura-de-pantalla-de-2022-06-11-19-46-05.png width = 20% /> <img src=https://i.postimg.cc/sx18ZXX0/Captura-de-pantalla-de-2022-06-11-19-46-33.png width = 20% />
