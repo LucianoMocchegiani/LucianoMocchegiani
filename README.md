@@ -1,5 +1,5 @@
 # Hola soy Luciano Mocchegiani,
-Full Stack Developer, entuciasta del mundo tecnologico
+  Full Stack Developer, entuciasta del mundo tecnologico
 
 # Tecnologías y metodologías conocidas:
 - Front-end: JavaScript, React, Redux, HTML, CSS.
