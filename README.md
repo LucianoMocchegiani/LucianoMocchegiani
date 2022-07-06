@@ -1,7 +1,9 @@
 <img src="https://media.istockphoto.com/photos/cardboard-with-words-hello-world-on-laptop-keyboard-picture-id576544696?b=1&k=20&m=576544696&s=170667a&w=0&h=E3NGfgX_-Iuo_UUwnTM5McnqGGFD0KWa_NzRxBM3t2M=" />
 
 # Hola soy Luciano Mocchegiani,
-  Full Stack Developer, entuciasta del mundo tecnologico
+  Full Stack Developer, Soy un entusiasta de la tecnología, con hambre de nuevos conocimientos y con muchas ganas de aplicar los que ya tengo.
+Siempre me gusto el área tecnológica. Trabaje como técnico reparando PCs y luego como servicio técnico en una empresa de Internet, para finalmente      entrar en el mundo de la programación.
+Actualmente me encuentro estudiando programación e ingles por mi cuenta.
 
 # Tecnologías y metodologías conocidas:
 - Front-end: JavaScript, React, Redux, HTML, CSS.
