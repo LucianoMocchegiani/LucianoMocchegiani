@@ -19,9 +19,7 @@
 
 
 #Podes ver mis trabajos como desarrollador web:
-<a href= https://lucianomocchegiani.vercel.app/> <p>Portfolio</p> </a>
+<a href= https://lucianomocchegiani.vercel.app><p>Portfolio</p></a>
 
-<a href=https://www.linkedin.com/in/luciano-mocchegiani ><img src=https://cdn-icons-png.flaticon.com/512/61/61109.png width = 4% /></a>
-<a href=https://wa.me/1164897908 target=_blank <img src=https://cdn-icons-png.flaticon.com/512/785/785868.png width = 4% />  011-64897908> </a>
 
 
