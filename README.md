@@ -8,8 +8,9 @@
 
 
 # Tecnologías y metodologías conocidas:
+- Lenguajes: Javascript, Python, C#.
 - Desarrollo mobile: React Native, Expo.
-- Front-end: JavaScript, React, Redux, HTML, CSS.
+- Front-end: React, Redux, HTML, CSS.
 - Back-end: JavaScript, Node, Express.
 - Cloud: Firebase.
 - Base de datos: SQL, PostgreSQL, Sequelize.
@@ -18,7 +19,7 @@
 - Sistemas operativos: Windows, Linux.
 
 
-#Podes ver mis trabajos como desarrollador web en mi [Portfolio](https://lucianomocchegiani.vercel.app/).
+# Podes ver mis trabajos como desarrollador web en mi <a href="https://lucianomocchegiani.vercel.app/" target="_blank">Portfolio</a>.
 
 
 
