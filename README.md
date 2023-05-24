@@ -18,8 +18,8 @@
 - Sistemas operativos: Windows, Linux.
 
 
-#Podes ver mis trabajos como desarrollador web:
-<a href= "https://lucianomocchegiani.vercel.app/" target="_blank" ><h3>Portfolio</h3></a>
+#Podes ver mis trabajos como desarrollador web en mi [Portfolio](https://lucianomocchegiani.vercel.app/).
+
 
 
 
